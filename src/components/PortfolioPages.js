@@ -7,8 +7,9 @@ import Resume from './pages/Resume';
 import Header from './Header';
 import Footer from './Footer';
 
-export default function PortfolioPages() {
-    const [currentPage, setCurrentPage] = useState('About');
+
+ function PortfolioPages() {
+    const [currentPage, setCurrentPage] = useState('');
 
     // Set up const to conditionally render the pages
     const renderPage = () => {
@@ -26,7 +27,7 @@ export default function PortfolioPages() {
 
     // Add page change and set variable
     const handlePageChange = (page) => setCurrentPage(page);
-
+    
     return (
         <div>
             <Header />
@@ -36,3 +37,5 @@ export default function PortfolioPages() {
         </div>
     );
 }
+
+export default PortfolioPages;

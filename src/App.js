@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="portfolio-app">
       <PortfolioPages />
+      
     </div>
   );
 }
