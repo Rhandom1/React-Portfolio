@@ -1,5 +1,4 @@
 import React from "react";
-// import "./App.css";
 
 // This is to build the NavBar
     // Turns off the click function if the user is on the same page
