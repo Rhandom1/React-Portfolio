@@ -1,4 +1,11 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import Nav from "./components/Nav";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+import Resume from "./components/Resume";
+import Portfolio from "./components/Portfolio";
+import "./App.css";
 
 // This is to build the NavBar
     // Turns off the click function if the user is on the same page
