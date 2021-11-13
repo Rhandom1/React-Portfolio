@@ -1,6 +1,4 @@
-import React from 'react';
-
-mport React, { useState } from 'react';
+import React, { useState } from 'react';
 
 // Here we import a helper function that will check if the email is valid
 import { validateEmail } from '../../utils/helpers';
