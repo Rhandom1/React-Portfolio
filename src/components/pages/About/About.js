@@ -1,13 +1,11 @@
 import React from 'react';
-import familyImg from "../../Assets/Disboobash19.jpeg";
-import fazbear from "../../Assets/Fazbear21.jpg";
 
 export default function About() {
   return (
     <div>
       <article>
         <h1>About Me</h1>
-        <img className="BooBash" src={ familyImg } alt="My family at Disney" width="300"></img>
+        <img className="BooBash" src="./Assets/Disboobash19.jpeg" alt="My family at Disney" width="300"></img>
         <p>
           Welcome! I am a full-stack developer looking to break into the field of Educational Software development.
           After spending several years as a veterinary technician, I found my calling in teaching theatre to middle school students.
@@ -25,7 +23,7 @@ export default function About() {
           I love reading, creating stories with my son, and gaming. Thursdays are family Roblox nights so you can often find me there
           playing with my son and wife.
         </p>
-        <img className="BooBash" src={ fazbear} alt="Halloween bear 2021" width="300"></img>
+        <img className="BooBash" src="./Assets/Fazbear21.jpg" alt="Halloween bear 2021" width="300"></img>
       </article>
     </div>
   );
