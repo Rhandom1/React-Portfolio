@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Footer() {
+function Footer() {
     return (
         <div>
             <a href="https://github.com/Rhandom1" rel="noreferrer"  target="_blank"><i className="fab fa-github fa-2x social"></i></a>
@@ -9,3 +9,5 @@ export default function Footer() {
         </div>
     )
 }
+
+export default Footer;
