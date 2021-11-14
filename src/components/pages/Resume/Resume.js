@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Resume() {
+function Resume() {
     <div>
         <a
             href="https://bit.ly/3kAtyEK"
@@ -10,5 +10,7 @@ export default function Resume() {
         </a>
     </div>
 }
+
+export default Resume;
 
 //List of tech and soft skills

@@ -1,5 +1,6 @@
 // Import pages to render
 import React from "react";
+import "./App.css"
 import PortfolioPages from "./components/PortfolioPages"
 
 
