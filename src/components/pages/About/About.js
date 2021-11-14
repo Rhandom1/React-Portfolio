@@ -26,7 +26,7 @@ export default function About() {
           I love reading, creating stories with my son, cooking, and gaming. Thursdays are family Roblox nights so you can often find me there
           playing with my son and wife.
         </p>
-        <div>
+        <div className="bottom-img">
         <img className="fazbear" src="./Assets/Fazbear21.jpg" alt="Halloween bear 2021" width="400" />
         <img className="wedding" src="./Assets/Mom&Bug.jpg" alt="My wife kissing my son at our wedding" width="400" />
         <img className="chilling" src="./Assets/ChillingDC.jpg" alt="Chilling at a fire pit in Door County" width="400" />
