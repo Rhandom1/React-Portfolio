@@ -1,9 +1,9 @@
 import React from "react";
-
+import './Projects.css';
 
  function Projects() {
     return (
-        <div className="container" style={{borderWidth: 3, borderColor: "red", borderStyle: "solid"}}>
+        <div className="container">
             <h1 style={{ textAlign: 'center' }} className="col-4">My Projects</h1>
             <div style={{ marginTop: 30 }} className="card-deck row">
                 <div className="card col-sm-12 col-md-3">
@@ -18,7 +18,7 @@ import React from "react";
                 </div>
 
                 <div className="card col-sm-12 col-md-3">
-                    <img className="card-img-top" src="./Assets/forest-bg.jpg" alt="Forest backdrop" />
+                    <img className="card-img-top" src="./Assets/InTents.png" alt="Forest backdrop" />
                     <div className="card-body">
                         <h5 className="card-title">InTents Camping</h5>
                         <p className="card-text">InTents Camping was intended to be a phone app for hikers to locate the nearest campground.</p>
