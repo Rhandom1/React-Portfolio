@@ -7,7 +7,7 @@ export default function About() {
       <article className="about-body">
         <h2>About Me</h2>
         <div className="about-me-top">
-          <img className="boobash" src="./Assets/Disboobash19.jpeg" alt="My family at Disney" width="300"></img>
+          <img className="boobash" src="https://raw.githubusercontent.com/Rhandom1/react-portfolio/main/public/Assets/Disboobash19.jpeg" alt="My family at Disney" width="300"></img>
           <p>
             Welcome! I am a full-stack developer looking to break into the field of Educational Software development.
             After spending several years as a veterinary technician, I found my calling teaching theatre to middle school students.
