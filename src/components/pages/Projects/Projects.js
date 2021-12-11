@@ -13,7 +13,8 @@ import './Projects.css';
                         <p className="card-text">StoYoCode is a developer tool for easily storing code snippets and images.</p>
                     </div>
                     <div className="card-footer">
-                        <p><a href="https://stoyocode.herokuapp.com/">See it here</a></p>
+                        <p><a href="https://stoyocode2.herokuapp.com/">See it here</a></p>
+                        <p><a href="https://github.com/Brendan838/StoYo.Code2.0">Here's how we did it!</a></p>
                     </div>
                 </div>
 
@@ -25,6 +26,7 @@ import './Projects.css';
                     </div>
                     <div className="card-footer">
                         <p><a href="https://oconnor-chris.github.io/InTentsCamping/">See it here</a></p>
+                        <p><a href="https://github.com/OConnor-Chris/InTentsCamping">Here's how we did it!</a></p>
                     </div>
                 </div>
 
@@ -36,17 +38,19 @@ import './Projects.css';
                     </div>
                     <div className="card-footer">
                         <p><a href="https://budget-smart-app.herokuapp.com/">See it here</a></p>
+                        <p><a href="https://github.com/Rhandom1/Budget_Smart">Here is how I did it!</a></p>
                     </div>
                 </div>
 
                 <div className="card col-sm-12 col-md-3">
                     <img className="card-img-top" src="./Assets/fitTracker.png" alt="A homepage for the app" />
                     <div className="card-body">
-                        <h5 className="card-title">Fitness Tracker</h5>
-                        <p className="card-text">An app for keeping track of workouts and charting progress.</p>
+                        <h5 className="card-title">Note Taker</h5>
+                        <p className="card-text">A simple but clean note taking app built in express and released.</p>
                     </div>
                     <div className="card-footer">
-                        <p><a href="https://floating-fjord-46165.herokuapp.com/">See it here</a></p>
+                        <p><a href="https://shrouded-cliffs-48289.herokuapp.com/">See it here</a></p>
+                        <p><a href="https://github.com/Rhandom1/Note-Taker">See it here</a></p>
                     </div>
                 </div>
 
