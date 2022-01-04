@@ -18,7 +18,7 @@ import './Projects.css';
                     </div>
                 </div>
 
-                <div className="card col-sm-12 col-md-3">
+                <div className="card col-sm-12 col-md-6 col-lg-6">
                     <img className="card-img-top" src="./Assets/InTents.png" alt="Forest backdrop" />
                     <div className="card-body">
                         <h5 className="card-title">InTents Camping</h5>
